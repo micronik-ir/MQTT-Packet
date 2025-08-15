@@ -1,4 +1,4 @@
 # MQTT-Packet
-Excel format
-HTML  format
+Excel &
+HTML &
 JPG   format
