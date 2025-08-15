@@ -1,2 +1,2 @@
 # MQTT-Packet
-Exel format
+Excel format
